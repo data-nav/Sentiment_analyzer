@@ -1,4 +1,4 @@
-# Sentiment-Analysis-on-Women-s-Clothes-Reviews
+# Sentiment-Analysis-on-Women-Clothes-Reviews
 Capstone Project on E-commerce
 # ABSTRACT
 In today's fields of education and literature, electronic commerce (e-commerce) is a well-known subject. Excellent research on e-commerce focuses predominantly on developing economies. Customer behaviour analysis is gaining more prominence as consumers move from visiting retail shops to shopping online from the e-commerce view. 
